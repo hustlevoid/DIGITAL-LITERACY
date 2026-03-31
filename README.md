@@ -28,4 +28,11 @@ Task 5 – Cybercrime Awareness Researched UPI fraud and created a case study al
 
 Project Report The detailed report for this project is available in the report/ folder.
 
-Learning Outcomes Improved understanding of digital literacy concepts Learned to use tools like Canva, GitHub, and Google Forms Developed professional communication skills Gained awareness about cyber safety and online responsibility Acknowledgment This project was completed as part of the Digital Literacy course at VIT Bhopal University.
+During this project, I used a mix of platforms to complete different tasks: Github for managing my work and repository
+Linkedin to create a professional profile
+Stack overflow to understand coding-related doubts
+Hackerrank to practice basic coding
+Canva to design the infographic
+Google Forms to create a quiz
+
+Learning Outcomes Improved understanding of digital literacy concepts Learned to use tools like Canva, GitHub, and Google Forms Developed professional communication skills Gained awareness about cyber safety and online responsibility Acknowledgment. Overall, this project was a good learning experience for me. It was not just about completing tasks, but also about understanding how digital tools can be used. These skills will definitely help me in my studies to improve myself and in the future as well.
